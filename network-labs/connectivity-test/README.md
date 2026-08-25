@@ -27,3 +27,18 @@ The loopback address responded successfully with no packet loss.
 ### Interpretation
 
 A successful response confirms that TCP/IP is functioning locally on the computer.
+
+
+### Default Gateway Test
+
+Command:
+
+`ping 192.168.0.1`
+
+Result:
+
+The default gateway responded successfully with no packet loss.
+
+### Interpretation
+
+A successful response confirms that the computer can communicate with the router on the local network.
