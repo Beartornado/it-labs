@@ -1,2 +1,5 @@
-# it-labs
-Documentation and exercises from my home IT lab projects.
+IT Labs
+This repository documents the home labs I complete while developing my networking, systems administration, and security skills.
+
+Labs
+My first lab will be a basic network connectivity test.
