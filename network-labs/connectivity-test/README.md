@@ -57,3 +57,18 @@ The DNS lookup successfully returned IP addresses for GitHub.
 #### Interpretation
 
 The successful lookup confirms that the computer can contact a DNS server and resolve a domain name to an IP address.
+
+
+### Route Trace Test
+
+Command:
+
+`tracert github.com`
+
+Result:
+
+The trace displayed the network path toward GitHub across multiple router hops.
+
+#### Interpretation
+
+The results demonstrate how traffic passes through multiple network devices between the local computer and a remote destination. Some routers may not respond to trace requests.
